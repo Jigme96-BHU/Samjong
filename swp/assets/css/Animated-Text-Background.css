@@ -1,0 +1,51 @@
+#animatedTextBackground {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  width: 100%;
+  height: 350px;
+  background-image: url(;
+  margin-top: -75px;
+  background-repeat: no-repeat;
+}
+
+#animatedTextHeading {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/907368/background-text.jpg") repeat;
+  font-family: 'Arbutus Slab', serif;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-align: center;
+  font-weight: 900;
+  letter-spacing: -1px;
+  font-size: 15vw;
+  line-height: .8em;
+  background-size: 300%;
+}
+
+.padMar {
+  margin-top: -5%;
+  height: 50%;
+  width: 80%;
+  align-content: center;
+  margin-left: 1%;
+}
+
+.py-2:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.samjong-logo {
+  height: 90px;
+  width: auto;
+  transform: scale(1.1, 1.1);
+}
+
+.samjong-map {
+  height: 33%;
+  width: 100%;
+}
+
+.mb-0 {
+  font-family: 'Arbutus Slab';
+}
+

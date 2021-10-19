@@ -1,0 +1,35 @@
+.topbar.static-top {
+  height: 100px;
+}
+
+.desung-logo {
+  height: 90px;
+  width: auto;
+}
+
+.top-nav {
+  background: linear-gradient(120deg, #93afd1, #e8c059);
+}
+
+.side-bar {
+}
+
+.sidebar.sidebar-dark.accordion {
+  background-color: #94a2bb;
+  color: black;
+}
+
+.padMar.vichomAyudaventasImagen {
+  height: 190px;
+  width: 80px;
+  margin-bottom: -50px;
+  margin-left: 50%;
+}
+
+.brunch-pipe {
+  width: 80%;
+  height:350px;
+  margin-top: -16%;
+margin-left: 5%;
+}
+
